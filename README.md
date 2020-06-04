@@ -1,1 +1,1 @@
-# Hello!
+# Hello~! I am your new Discord bot!
